@@ -1,0 +1,10 @@
+alembic
+asyncpg
+sqlalchemy==2.0.40
+
+fastapi==0.115.12
+pydantic==2.11.3
+pydantic-settings
+uvicorn
+
+pytz==2025.2
